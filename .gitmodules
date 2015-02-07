@@ -1,0 +1,6 @@
+[submodule "material"]
+	path = material
+	url = git://github.com/angular/material.git
+[submodule "lumX"]
+	path = lumX
+	url = git@github.com:lumapps/lumX.git
